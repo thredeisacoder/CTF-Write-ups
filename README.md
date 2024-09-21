@@ -10,9 +10,7 @@ This repo is where I keep detailed write-ups of the challenges I've solved — a
 ## 📝 CTF Write-ups
 Here’s a list of the CTF competitions I’ve participated in. Each link will take you to a folder containing my write-ups for that specific competition:
 
-- 🏅 [CTF Name 1](./PatriotCTF 2024) – Web & Forensics challenges
-- 🏅 [CTF Name 2](./CTF-Name-2) – A mix of web exploitation and reverse engineering
-- 🏅 [CTF Name 3](./CTF-Name-3) – Focus on web application attacks
+- 🏅 [PatriotCTF 2024](./PatriotCTF_2024) – 700 points
 
 Stay tuned for more write-ups as I continue to tackle new CTFs!
 
