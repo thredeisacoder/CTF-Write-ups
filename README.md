@@ -11,6 +11,7 @@ This repo is where I keep detailed write-ups of the challenges I've solved — a
 Here’s a list of the CTF competitions I’ve participated in. Each link will take you to a folder containing my write-ups for that specific competition:
 
 - 🏅 [PatriotCTF 2024](./PatriotCTF_2024) – 700 points
+- 🏅 [CyberSpace CTF 2024](./CyberSpace_CTF_2024) – 345 points - 227th
 
 Stay tuned for more write-ups as I continue to tackle new CTFs!
 
