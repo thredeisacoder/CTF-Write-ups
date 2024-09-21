@@ -1,4 +1,4 @@
-# 🏆 CTF Write-ups Repository 🧩
+<centre># 🏆 CTF Write-ups Repository 🧩</centre>
 
 ## 👋 About Me
 Hey there! I'm an enthusiastic **CTF player** with a passion for **web exploitation**. Uncovering hidden vulnerabilities in web applications and pushing them to their limits is my idea of fun! The art of bypassing security and exploring the unknown is what drives me in every challenge.
