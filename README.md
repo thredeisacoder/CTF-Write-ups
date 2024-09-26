@@ -6,11 +6,12 @@ Hey there! I'm an enthusiastic **CTF player** with a passion for **web exploitat
 I also enjoy delving into the world of **OSINT (Open Source Intelligence)**. Whether it's uncovering hidden information or piecing together public data to solve mysteries, I find OSINT challenges fascinating. It's like a digital treasure hunt where every clue brings you closer to the truth!
 
 This repo is where I keep detailed write-ups of the challenges I've solved — a little treasure chest of knowledge and experience gained from my CTF journey. Whether you're learning or just curious, dive in and explore!
+<br>Follow me at: <a href="https://ctftime.org/team/350749">Aw4k3n</a>
 
 ## 📝 CTF Write-ups
 Here’s a list of the CTF competitions I’ve participated in. Each link will take you to a folder containing my write-ups for that specific competition:
 
-- 🏅 [PatriotCTF 2024](./PatriotCTF_2024) – 800 points - 537th place
+- 🏅 [PatriotCTF 2024](./PatriotCTF_2024) – 800 points - 536th place
 - 🏅 [CyberSpace CTF 2024](./CyberSpace_CTF_2024) – 345 points - 227th place
 
 Stay tuned for more write-ups as I continue to tackle new CTFs!
