@@ -4,3 +4,4 @@
 <p> Flag format will be pctf{NAME_OF_STATUE}</p>
 <p> Author: Dylan (elbee3779).</p>
 <img src = "./imgs/nighttimestatue.jpg">
+<h3>Flag: <code>PCTF{communitas}</code></h3>
