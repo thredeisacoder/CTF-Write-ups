@@ -4,4 +4,5 @@
 <p> Flag format: pctf{mcu_vendor_name} (example: pctf{broadcom}.</p>
 <p> Author: Dylan (elbee3779)</p>
 <img src="./imgs/target_product.jpg">
+<a href="https://wikidevi.wi-cat.ru/D-Link_DSL-6300V"> Link </a>
 <h3>Flag: <code>PCTF{ikanos}</code></h3>
