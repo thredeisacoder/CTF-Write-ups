@@ -4,3 +4,4 @@
 <p> Flag format: pctf{mcu_vendor_name} (example: pctf{broadcom}.</p>
 <p> Author: Dylan (elbee3779)</p>
 <img src="./imgs/target_product.jpg">
+<h3>Flag: <code>PCTF{ikanos}</code></h3>
