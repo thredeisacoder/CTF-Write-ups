@@ -1,3 +1,5 @@
+<img src="./imgs/TheWayOutisThrough.png">
+
 
 ```javascript
 let part_1 = [112, 111, 99, 116].map(x => String.fromCharCode(x)).join('');
