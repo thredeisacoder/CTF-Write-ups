@@ -1,3 +1,6 @@
+<h1> Web 100 - The Way Out is Through (100 points)</h1>
+<p> The first Web challenge of the contest and I am so excited to reveal this one! In this challenge you'll run through a simulated web-based cybersecurity training course a la the DoD Cyber Exchange Awareness Challenge. There's just one problem... The cybersecurity training is... Vulnerable??! Oh, the irony! Can YOU handle the HACK OF THE CENTURY??? Head here to find out!</p>
+<p>Challenge link: <a href="http://nvstgt.com/TTiOT/index.html">Click here.</a></p>
 <img src="./imgs/TheWayOutisThrough.png">
 
 
