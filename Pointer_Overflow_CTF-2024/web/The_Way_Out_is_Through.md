@@ -1,6 +1,10 @@
 <h1> Web 100 - The Way Out is Through (100 points)</h1>
 <p> The first Web challenge of the contest and I am so excited to reveal this one! In this challenge you'll run through a simulated web-based cybersecurity training course a la the DoD Cyber Exchange Awareness Challenge. There's just one problem... The cybersecurity training is... Vulnerable??! Oh, the irony! Can YOU handle the HACK OF THE CENTURY??? Head here to find out!</p>
 <p>Challenge link: <a href="http://nvstgt.com/TTiOT/index.html">Click here.</a></p>
+<hr>
+<p>When accessing the link, we are greeted by an error page, but this is actually just a fake message.</p>
+<img src="./imgs/TheWayOutisThrough1.png">
+<p>I inspected the page source and discovered a hidden script.</p>
 <img src="./imgs/TheWayOutisThrough.png">
 
 
@@ -15,6 +19,7 @@ console.log("The Tooth is Over There.");
 document.cookie = "\u0037\u0068\u0033";
 ```
 
+<p>After solving the five individual parts, I combined them to form the flag.</p>
 <code>part1: poct </code>
 <code>part2: f{uwsp_ </code>
 <code>part3: 7h3 </code>
