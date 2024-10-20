@@ -8,3 +8,4 @@
 <br>Password: <code>d34df4c3</code></p>
 <h3> Created by: <b>syyntax</b></h3>
 <hr>
+<h3>Flag: <code>flag{215}</code></h3>
