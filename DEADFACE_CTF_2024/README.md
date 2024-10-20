@@ -3,4 +3,5 @@
   <img src="./imgs/Category Breakdown.png" alt="Hình 2" width="45%" />
 </p>
 <img src="./imgs/Score over Time.png">
+<img src="./imgs/solve_time.png">
 <img src="./imgs/award.png">
