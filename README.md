@@ -15,7 +15,7 @@ Here’s a list of the CTF competitions I’ve participated in. Each link will t
 - 🏅 [CyberSpace CTF 2024](./CyberSpace_CTF_2024) – 345 points - 227th place.
 - 🏅 [H7CTF International](./H7CTF_International) – 1695 points - 48th place.
 - 🏅 [Pointer Overflow CTF - 2024](./Pointer_Overflow_CTF-2024) - 700 points - 213th place.
-- 🏅 [DEADFACE CTF 2024](./DEADFACE_CTF_2024) - 1483 points - ~ place.
+- 🏅 [DEADFACE CTF 2024](./DEADFACE_CTF_2024) - 1483 points - 210 place.
 
   
 Stay tuned for more write-ups as I continue to tackle new CTFs!
