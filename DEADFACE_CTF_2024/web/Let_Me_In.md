@@ -6,6 +6,6 @@
 <hr>
 <p>TThe challenge begins with a login page.</p>
 <img src="../imgs/lmi1.png">
-<p>This challenge involves SQL Injection, and I used <code>' OR 1=1--</code>. I successfully gained admin access.</p>
+<p>This challenge involves SQL Injection, and I used <code>' OR 1=1--</code> (Fill in both the username and password fields.). I successfully gained admin access.</p>
 <img src="../imgs/lmi2.png">
 <h3>Flag: <code>flag{Tr3ndy_Tr0v3_$QL_1nj3ct10n}</code></h3>
