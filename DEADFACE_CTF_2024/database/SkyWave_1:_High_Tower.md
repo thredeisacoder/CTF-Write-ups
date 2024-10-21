@@ -8,4 +8,12 @@
 <br>Password: <code>d34df4c3</code></p>
 <h3> Created by: <b>syyntax</b></h3>
 <hr>
+
+```query
+SELECT * FROM Towers WHERE elevation > 219;
+```
+<img src="../imgs/sky1.png">
+
+
+
 <h3>Flag: <code>flag{215}</code></h3>
