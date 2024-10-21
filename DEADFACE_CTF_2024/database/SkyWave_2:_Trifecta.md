@@ -3,4 +3,19 @@
 <blockquote><strong>Note:</strong> Access the database from <b>High Tower</b>.</blockquote>
 <h3> Created by: <b>syyntax</b></h3>
 <hr>
+<p>Determine the <code>device_type_id</code> for smartphones, computers, and tablets in the <code>Device_Types</code> table.</p>
+
+```query
+SELECT * FROM Device_Types;
+```
+
+<img src="../imgs/sky2-0.png">
+
+<p>Using the <code>device_type_id</code> determined above, display it from the <code>Devices</code> table.</p>
+
+```query
+SELECT * FROM Devices WHERE device_type_id IN (1,3,4);
+```
+
+<img src="../imgs/sky2-1.png">
 <h3>Flag: <code>flag{714}</code></h3>
