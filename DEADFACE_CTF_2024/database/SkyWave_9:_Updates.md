@@ -3,4 +3,9 @@
 <blockquote><strong>Note:</strong> Access the database from <b>High Tower</b>.</blockquote>
 <h3> Created by: <b>syyntax</b></h3>
 <hr>
+
+```query
+SELECT DISTINCT(tower_id) FROM Tower_Maintenance WHERE maintenance_type = "Software updates";
+```
+<img src="../imgs/sky9.png">
 <h3>Flag: <code>flag{70}</code></h3>
