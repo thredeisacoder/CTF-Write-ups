@@ -1,3 +1,11 @@
+<h1>Winning Factors (50 points)</h1>
+<p> As another test of your programming prowess, Turbo Tactical wants to see if you can write a script to solve mathematic equations being served by a remote server within 3 seconds.</p>
+<p>Submit the flag as <code>flag{flag-text}</code>.</p>
+<p><code>147.182.245.126:33001</code></p>
+<h3> Created by: <b>syyntax</b></h3>
+<hr>
+
+
 ```python
 import socket
 import re
