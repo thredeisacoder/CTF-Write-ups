@@ -4,7 +4,8 @@
 <p><code>147.182.245.126:33001</code></p>
 <h3> Created by: <b>syyntax</b></h3>
 <hr>
-
+<p>The server will prompt us to calculate the factorial of a random number. Our task is to write a program to calculate the result and send it back to the server.</p>
+<h4>My solution: </h4>
 
 ```python
 import socket
