@@ -3,7 +3,6 @@
 <p>Submit the flag as <code>flag{flag-text}</code>.</p>
 <h3> Created by: <b>syyntax</b></h3>
 <hr>
-
 <h4>Challenge Code: </h4>
 
 ```c
@@ -53,6 +52,7 @@ int main() {
     return 0;
 }
 ````
+<p>The for loop in the main function is incorrect. We just need to fix the code to print the flag.</p>
 <h4>My Solotion: </h4>
 
 ```c
