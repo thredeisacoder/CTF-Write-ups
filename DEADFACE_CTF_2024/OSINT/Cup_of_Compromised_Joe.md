@@ -4,6 +4,6 @@
 <h3> Created by: <b>Shamel</b></h3>
 <hr>
 <img src="../imgs/osintcoc1.png">
-<a href="https://www.google.com/maps?cid=10771218035802263846"> Link </a>
+<a href="https://www.google.com/maps?cid=10771218035802263846"> Google Map </a>
 
 <h3>Flag: <code>flag{Fresno-93704}</code></h3>
