@@ -3,4 +3,10 @@
 <p>Submit the flag as <code>flag{flag-text}</code>.</p>
 <h3> Created by: <b>RP-01?</b></h3>
 <hr>
+
+```bash
+tshark -r wildwildwest.pcapng -Y 'frame contains "flag"'
+```
+<img src="../imgs/www1.png">
+<img src="../imgs/www2.png">
 <h3>Flag: <code>flag{kerbrute_finding_users}</code></h3>
