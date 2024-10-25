@@ -5,4 +5,9 @@
 <h3> Created by: <b>syyntax</b></h3>
 <hr>
 
+```bash
+tshark -r phantom.pcap -Y 'frame contains "mail"'
+```
+<img src="../imgs/ssend1.png">
+<img src="../imgs/ssend2.png">
 <h3>Flag: <code>flag{William Hadderly}</code></h3>
