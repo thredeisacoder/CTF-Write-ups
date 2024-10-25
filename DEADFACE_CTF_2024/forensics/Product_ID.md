@@ -4,5 +4,7 @@
 <p>Submit the flag as <code>flag{Windows Product ID}</code>. Example: <code>flag{12345-67890-12345-67890}</code>.</p>
 <h3> Created by: <b>syyntax</b></h3>
 <hr>
+<img src="../imgs/productid1.png">
+<img src="../imgs/productid2.png">
 
 <h3>Flag: <code>flag{00326-10000-00000-AA973}</code></h3>
