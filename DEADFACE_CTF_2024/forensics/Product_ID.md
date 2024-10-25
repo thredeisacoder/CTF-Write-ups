@@ -4,6 +4,10 @@
 <p>Submit the flag as <code>flag{Windows Product ID}</code>. Example: <code>flag{12345-67890-12345-67890}</code>.</p>
 <h3> Created by: <b>syyntax</b></h3>
 <hr>
+```bash
+tshark -r phantom.pcap -Y 'frame contains "ProductId"'
+```
+
 <img src="../imgs/productid1.png">
 <img src="../imgs/productid2.png">
 
