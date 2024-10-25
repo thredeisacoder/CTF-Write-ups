@@ -4,6 +4,10 @@
 <p>Submit the flag as <code>flag{password}</code>.</p>
 <h3> Created by: <b>syyntax</b></h3>
 <hr>
+
+```bash
+tshark -r phantom.pcap -Y 'frame contains "pass"'
+```
 <img src="../imgs/bigfish1.png">
 <img src="../imgs/bigfish2.png">
 <img src="../imgs/passwd.png">
