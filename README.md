@@ -17,6 +17,7 @@ Here’s a list of the CTF competitions I’ve participated in. Each link will t
 - 🏅 [Pointer Overflow CTF - 2024](./Pointer_Overflow_CTF-2024) - 700 points - 213th place.
 - 🏅 [DEADFACE CTF 2024](./DEADFACE_CTF_2024) - 1483 points - 210 place.
 - 🏅 [Questcon CTF](./Questcon_CTF) - 1655 points - 73 place.
+- 🏅 [EngimaXplore2.0 2024](./) - 1765 points - 22 place.
 
   
 Stay tuned for more write-ups as I continue to tackle new CTFs!
