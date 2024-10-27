@@ -3,5 +3,12 @@
 <h3>Author: <b>TheProfessor </b></h3>
 <a href="https://questcon-misdirect.chals.io">https://questcon-misdirect.chals.io</a>
 <hr>
+<img src="../imgs/misdirection1.png">
+<img src="../imgs/misdirection2.png">
+<img src="../imgs/misdirection3.png">
+<img src="../imgs/misdirection4.png">
+<img src="../imgs/misdirection5.png">
+<img src="../imgs/misdirection6.png">
+<img src="../imgs/misdirection7.png">
 
 <h3>Flag: <code>QUESTCON{mi3d1r3ct10n_15_4n_4r}</code></h3>
