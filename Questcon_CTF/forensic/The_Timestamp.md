@@ -4,6 +4,7 @@
 <a href="../files/analyze_mft_output.txt">analyze_mft_output.txt</a><br>
 <a href="../files/malware_mft.json">malware_mft.json</a>
 <hr>
-
+<p>Simply open the analyze_mft_output.txt file and check the modification time — it’s also the flag.</p>
+<img src="../imgs/tt.png">
 
 <h3>Flag: <code>QUESTCON{2023-01-17_09:30:45}</code></h3>
