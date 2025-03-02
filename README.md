@@ -19,7 +19,7 @@ Here’s a list of the CTF competitions I’ve participated in. Each link will t
 - 🏅 [Questcon CTF](./Questcon_CTF) - 1655 points - 73 place.
 - 🏅 [EngimaXplore2.0 2024](./) - 1765 points - 22 place.
 - 🏅 [HKCERT CTF - 2024](./) - 560 points - 199 place.
-- 🏅 [ACECTF 1.0](./ACECTF_1.0) - 4600 points - ~ place.
+- 🏅 [ACECTF 1.0](./ACECTF_1.0) - 4600 points - 57 place.
 
   
 Stay tuned for more write-ups as I continue to tackle new CTFs!
